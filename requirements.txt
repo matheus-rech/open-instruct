@@ -4,14 +4,14 @@ scipy
 packaging
 sentencepiece
 datasets
-deepspeed==0.14.4
+deepspeed==0.15.1
 accelerate==0.31.0
 peft>=0.11.1
 bitsandbytes>=0.41.1
 evaluate>=0.4.0
 tokenizers==0.19.1
 protobuf
-transformers==4.43.4
+transformers==4.48.0
 openai>=1.0.0
 tiktoken
 rouge_score
@@ -34,7 +34,7 @@ flask
 vllm>=0.4.1
 openpyxl
 # for ifeval
-nltk==3.8.1
+nltk==3.9.1
 langdetect
 immutabledict
 # for math evaluations
